@@ -2,7 +2,8 @@
 
 We introduce a facial expression-driven recommender system for emotion recognition, aimed at discerning user emotions and proposing appropriate songs. Upon recognizing a user's emotional state, the system tailors a playlist accordingly: negative emotions prompt a selection of mood-lifting music, while positive emotions trigger a playlist featuring various genres to enhance the positive mood further. Our emotion detection model is trained on the Kaggle Facial Expression Recognition dataset, whereas the music player dataset consists of Bollywood Hindi songs. Implementation of facial emotion detection leverages a Convolutional Neural Network, delivering an accuracy of approximately 95.14%. Additionally, song prediction employs Linear Regression, enhancing the system's predictive capabilities.
 
-# The songs in this folder are for references only --- You can try it out with your own playlist --- 
+# The songs in this folder are for the sake of references only 
+--- You can try it out with your own playlist --- 
 
 The process comprises five sequential steps:
 1. Upload Image
